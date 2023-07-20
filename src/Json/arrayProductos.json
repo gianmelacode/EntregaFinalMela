@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nombre": "iPad Pro 12.9′ 6ta Generación ",
+    "descripcion": "Con los superpoderes del chip M1 de Apple.",
+    "imagen": "https://d2ihpvt6nd5q28.cloudfront.net/wp-content/uploads/2023/05/iPad_Pro_Wi-Fi_11_in_4th_generation_Space_Gray_PDP_Image_Position-1b_MXLA.jpg",
+    "precio": 220000,
+    "stock": 10,
+    "categoria": "celulares"
+  },
+  {
+    "id": 2,
+    "nombre": "iPhone 14 Pro ",
+    "descripcion": "Definitivamente Extra Grande.",
+    "imagen": "https://d2ihpvt6nd5q28.cloudfront.net/wp-content/uploads/2023/02/iPhone_14_Pro_Space_Black_PDP_Image_Position-1a_MXLA.jpg",
+    "precio": 50000,
+    "stock": 10,
+    "categoria": "celulares"
+  },
+  {
+    "id": 3,
+    "nombre": "iPhone 13",
+    "descripcion": "Nuestro sistema de dos cámaras más avanzado y un chip superrápido que deja atrás a la competencia.",
+    "imagen": "https://d2ihpvt6nd5q28.cloudfront.net/wp-content/uploads/2022/01/iPhone_13_mini_Blue_PDP_Image_position-1A__CLCO_v1-removebg-preview.png",
+    "precio": 120000,
+    "stock": 10,
+    "categoria": "celulares"
+  },
+  {
+    "id": 4,
+    "nombre": "MacBook Pro 14″ – M2 Pro de 10 núcleos",
+    "descripcion": "Con los superpoderes del chip M2 Pro-CPU de 10 núcleos.",
+    "imagen": "https://www.megatone.net/images/Articulos/zoom2x/200/01/MKT0274ETC.jpg",
+    "precio": 2000,
+    "stock": 10,
+    "categoria": "notebooks"
+  },
+  {
+    "id": 5,
+    "nombre": "iMac 24» M1 de 7 Núcleos",
+    "descripcion": "Chip M1 de Apple-CPU de 8 núcleos – GPU de 7 núcleos",
+    "imagen": "https://d2ihpvt6nd5q28.cloudfront.net/wp-content/uploads/2021/08/imacM1portada.jpg",
+    "precio": 1300,
+    "stock": 10,
+    "categoria": "notebooks"
+  },
+  {
+    "id": 6,
+    "nombre": "AirPods (3ra Generación)",
+    "descripcion": "Estuche de carga Magsafe o Lightning.",
+    "imagen": "https://d2ihpvt6nd5q28.cloudfront.net/wp-content/uploads/2022/01/Airpods_PDP_Image_Position-2__LAES.jpg",
+    "precio": 100,
+    "stock": 10,
+    "categoria": "auriculares"
+  },
+  {
+    "id": 7,
+    "nombre": "AirPods Max",
+    "descripcion": "El equilibrio perfecto entre un audio de alta fidelidad increíble y la mágica facilidad de uso de los AirPods.",
+    "imagen": "https://d2ihpvt6nd5q28.cloudfront.net/wp-content/uploads/2021/12/AirPods_Max_Space_Gray_PDP_Image_Position-2__en-US.jpg",
+    "precio": 80,
+    "stock": 10,
+    "categoria": "auriculares"
+  },
+  {
+    "id": 8,
+    "nombre": "AirPods Pro (2da generación)",
+    "descripcion": "Hasta 2 veces más Cancelación Activa de Ruido en comparación con la generación anterior.",
+    "imagen": "https://d2ihpvt6nd5q28.cloudfront.net/wp-content/uploads/2023/05/AIRPODS-PRO-1.jpeg",
+    "precio": 500,
+    "stock": 10,
+    "categoria": "auriculares"
+  }
+]
